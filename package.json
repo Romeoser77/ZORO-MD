@@ -1,6 +1,7 @@
 {
   "name": "ZORO MD",
   "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.16.12",
@@ -27,6 +28,7 @@
     "libphonenumber-js": "^1.11.18",
     "link-preview-js": "^3.0.5",
     "moment-timezone": "^0.5.43",
+    "mumaker": "^2.0.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^2.7.0",
     "node-id3": "^0.2.3",
